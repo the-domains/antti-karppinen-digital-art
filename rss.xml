@@ -2,13 +2,28 @@
     <channel>
         <title><![CDATA[Antti Karppinen Digital Art]]></title>
         <description><![CDATA[Antti Karppinen Digital Art]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/antti-karppinen-digital-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 16:45:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 16:52:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/antti-karppinen-digital-art/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined743ded2e-6a82-4f14-a374-79644f378620/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5f7a46d-f98c-4776-8d23-7dd4749f83ee.jpg">]]></description>
+            <link>https://thegrid.ai/antti-karppinen-digital-art/4da38f1b-c3bf-4103-b092-86addcfe4534/index.html</link>
+            <guid isPermaLink="false">4da38f1b-c3bf-4103-b092-86addcfe4534</guid>
+            <pubDate>Sat, 09 Jan 2016 16:52:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96ec0625-86de-4152-afef-adee0af793e5.jpg">]]></description>
+            <link>https://thegrid.ai/antti-karppinen-digital-art/7a3898ad-d494-489e-9d3d-c0e6bfda3e0d/index.html</link>
+            <guid isPermaLink="false">7a3898ad-d494-489e-9d3d-c0e6bfda3e0d</guid>
+            <pubDate>Sat, 09 Jan 2016 16:51:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Branded Man - visualizing depression and rebirth</p>]]></description>
+            <link>https://thegrid.ai/antti-karppinen-digital-art/743ded2e-6a82-4f14-a374-79644f378620/index.html</link>
             <guid isPermaLink="false">743ded2e-6a82-4f14-a374-79644f378620</guid>
             <pubDate>Sat, 09 Jan 2016 16:45:20 GMT</pubDate>
         </item>
